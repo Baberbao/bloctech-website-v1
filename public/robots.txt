@@ -1,0 +1,8 @@
+Sitemap: https://www.bloctechsolutions.com/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
